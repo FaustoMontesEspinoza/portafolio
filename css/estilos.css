@@ -1,0 +1,16 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    background: black;
+}
+
+.home{
+    width: 100%;
+    height: 100vh;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7),rgba(0, 0, 0, 0.7)), url('../img/man-791049_1920.jpg');
+    background-size: cover;
+}
+
+.bg-trans{
+    background:rgba(0, 0, 0, 0.9);
+    transition: all 1s ease;
+}
